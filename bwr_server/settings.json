@@ -169,7 +169,7 @@
 		"program"
 	],
 	"banLength": 7,
-	"port": 8001,
+	"port": 10000,
 	"express": {
 		"serveStatic": true
 	}
